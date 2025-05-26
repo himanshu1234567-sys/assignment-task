@@ -10,7 +10,7 @@ The project will start running and you should see output similar to:
 Local:   http://localhost:8080/
 Network: http://[your-ip]:8080/
 
-# 🎯 Task Tango - Vanilla JavaScript Task Management SPA
+# 🎯 Task Assignment - Vanilla JavaScript Task Management SPA
 
 A beautiful, modern Single Page Application (SPA) for task management built with pure vanilla JavaScript, CSS, and HTML. No frameworks or libraries required!
 
